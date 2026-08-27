@@ -1,0 +1,53 @@
+# Strolee Memory Index
+
+- [Sorry for bad news](feedback-sorry-for-bad-news.md) — the no-apology rule covers defects and slow service, NOT disappointing news; never a bare no
+- [Pick one and hold it](feedback-pick-one-and-hold-it.md) — consistency beats optimality; never improvise an amount or a fee
+- [Support system architecture](strolee-support-system-architecture.md) — PLAYBOOK.md is the always-loaded tier; do NOT bulk-load these memory files
+- [Gorgias reply tone](gorgias-reply-tone.md) — opener only on first reply; "Talk soon," when awaiting an answer, "Take care," when done
+- [Approved reply example](gorgias-approved-reply-example.md) — a real sent reply, the benchmark for voice and structure
+- [Draft tone corrections](gorgias-draft-tone-corrections.md) — don't presume the customer's state of mind; no know-it-all framing
+- [Sounds like AI](gorgias-sounds-like-ai.md) — em dashes and doubled hedging clauses only; do not strip the warmth
+- [Gorgias draft-only rule](gorgias-draft-only.md) — never send, apply, or post anything; type drafts in chat for review
+- [Past tone rejected](strolee-past-tone-rejected.md) — mine old macros and FAQs for facts, never for voice
+- [Never admit fault](strolee-never-affirm-defects.md) — no apologies for the product OR for slow service; reassure by acting instead
+- [Snap buttons](strolee-snap-buttons.md) — how Strolee frame parts lock, and the pen fix when a button slips inside the tube
+- [Air travel](strolee-air-travel.md) — gate check yes; never promise it's free, never imply airline damage is covered
+- [Strolee Gorgias account](strolee-gorgias-account.md) — helpdesk connected via MCP as Atira Shoffner, agent role
+- [Product facts](strolee-product-facts.md) — Destination vs Linq, Double vs Double Lite, V2 frame ID, Linq bars, Burst, discount codes
+- [Manufacturer not supplier](strolee-manufacturer-not-supplier.md) — always say "manufacturer," never "supplier"
+- [Warranty process](strolee-warranty-process.md) — always ask for a photo and order number before processing warranty claims
+- [Wheel upgrade pitch](strolee-wheel-upgrade-pitch.md) — how to handle wheel complaints without affirming defects or offering freebies
+- [Return policy](strolee-return-policy.md) — original packaging, tags, indoors only, shipping non-refundable, warm tone
+- [FedEx delivery](strolee-fedex-delivery.md) — can't reship; customer must open case with FedEx
+- [Latch troubleshooting](strolee-latch-troubleshooting.md) — clip open steps for carts, Baby+, and Double strollers
+- [Saved reply templates](strolee-saved-reply-templates.md) — verbatim past replies for Dest vs Linq, cookies, Double vs Lite, Linq bars, Burst, V2 wheels, snap button
+- [Do the legwork](feedback-do-the-legwork.md) — research product pages, macros, and orders yourself before flagging to Atira
+- [No phone support](strolee-no-phone-support.md) — email and web form only; redirect phone requests warmly
+- [Folding troubleshooting](strolee-folding-troubleshooting.md) — lift handle, squeeze button, folds forward; assembly video link
+- [Stability Shopper contents](strolee-stability-shopper-whats-included.md) — shopping bag included, mesh caddy is $17 add-on, "Special" is just a discount
+- [UPS delivery issues](strolee-ups-delivery.md) — same as FedEx: can't reship, customer opens claim with UPS
+- [Use customer's words](feedback-use-customer-words.md) — mirror the customer's language for product names, don't correct to official names
+- [Accessory compatibility](strolee-accessory-compatibility.md) — which accessories work with which carts, product URLs, v2 wheel restrictions
+- [Loving your Strolee closing](feedback-loving-your-strolee-closing.md) — when customer owns a Strolee, use "We hope you're loving your Strolee" closing
+- [Customer address mistakes](strolee-customer-address-mistakes.md) — wrong address at checkout is customer's mistake; Strolee almost never covers it
+- [Baby replacement parts](strolee-baby-replacement-parts.md) — belly bar $17.90, one single stroller model, warranty = defects only
+- [Always include assist line](feedback-always-include-assist-line.md) — NEVER skip "if there's ever anything we can assist" before Take care closings
+- [Full sign-off always](feedback-full-signoff-always.md) — Atira S / The Strolee Team on BOTH Talk soon and Take care closings
+- [Stamped Q&A](feedback-stamped-qa.md) — Stamped.io Q&A questions need answers, not closing
+- [V1 upgrade offer](feedback-v1-upgrade-offer.md) — always mention $40-off V2 upgrade when V1 customers hit compatibility issues
+- [Follow skill steps](feedback-follow-skill-steps.md) — never skip draft-replies skill steps; always check prior tickets and verify facts before drafting
+- [Minimize tickets](feedback-minimize-tickets.md) — keep replies tight and actionable; don't mention options the customer can't use
+- [Save as you go](feedback-save-as-you-go.md) — save every new link, fact, or response pattern to memory immediately so tickets get faster
+- [Collabs affiliate reply](strolee-collabs-affiliate.md) — welcome approved Shopify Collabs affiliates, explain link/code/commission, no product requirement
+- [Use specifics from ticket](feedback-use-specifics-from-ticket.md) — never write generic when the actual link, code, amount, or detail is right there in the ticket
+- [No order recital](feedback-no-order-recital.md) — don't read their own order back to them; three sentences, not an invoice
+- [All items come back](strolee-returns-all-items-back.md) — refunds require the item returned; keep-it is not a tool
+- [Wrong how-to link](strolee-personal-shopper-video-wrong-link.md) — Stability Shopper owners get stability-shopper-how-to, never the Personal Shopper video
+- [Ask as a favor](feedback-ask-as-a-favor.md) — "can you confirm it for me" beats instructing; blame shipping, never the person
+- [TikTok Shop relay tickets](strolee-tiktok-shop-relay-tickets.md) — close them, that conversation gets answered inside TikTok
+- [Gorgias tag handling](strolee-gorgias-tag-handling.md) — Ask Shad, Call Shad and Notify when back all mean SKIP the ticket
+- [Wheel positions](strolee-wheel-positions.md) — stair/beach are REAR pairs; caster lock is Personal Shopper only
+- [Don't validate a wrong premise](feedback-dont-validate-a-wrong-premise.md) — state the fact warmly, don't tell them they're right when they aren't
+- [Read the whole thread](feedback-read-the-whole-thread.md) — never sample the tail of a long ticket; the promise you'll contradict is in the middle
+- [Absence of evidence](feedback-absence-of-evidence.md) — a tool not returning something isn't proof it doesn't exist; product videos sit below the add to cart button
+- [Re-read before drafting](feedback-reread-before-drafting.md) — open the Playbook section per draft, not once a session; don't flag what the file answers
