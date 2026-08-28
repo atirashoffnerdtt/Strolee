@@ -27,8 +27,8 @@
 | Deluxe Organizer & Crossbody Bag | $45 | `/products/deluxe-strolee-organizer-crossbody-bag`. **Attaches with the little clips on the bag itself, not velcro. There is no velcro on the cart.** Closes with zippers. Page says "compatible with any brand stroller," so it works on the Beach Cart too. With the Personal Organizer sold out, this is the larger organizer AND the one in stock. |
 | Insulated Freezer & Organizer Bags | from $19 | 1-pack insulated $23 · 1-pack non-insulated $19 · 3-pack (1 ins + 2 non) $49, cheaper than $61 separately. Self standing, fully insulated, zipper close, dual carrying straps. Three fit in the Personal Shopping Bag. `/products/insulated-freezer-bag-for-personal-shopper` |
 | Additional Cup Holder | $10 | `/products/cup-holder-for-personal-shopper-single-pet-stroller` |
-| Oversized Cupholders | $14 | |
-| 5 Piece Carrying Accessory Set | $21 | |
+| Oversized Cupholders | $14 | **Not compatible with the Stability Shopper** — they need two rectangle tabs the Stability Shopper doesn't have. They do fit the Personal Shopper down by the front wheels. The velcro straps that ship in the same bag are for securing bag chairs or umbrellas to the frame, not for the cup holders. |
+| 5 Piece Carrying Accessory Set | $21 | **Not compatible with the Stability Shopper** — same rectangle-tab requirement as the oversized cup holders. Fits the Personal Shopper. When a Stability Shopper owner asks, offer the V2 beach wheels (`/products/v2-stability-shopper-beach-wheels`) as a warm alternative. |
 | Travel Backpack | $39 | Only one backpack. `/products/pet-personal-shopper-backpack`. Takes the cart **folded with the wheels still on**, no disassembly. Snug but works. Page lists Personal Shoppers, Pet Stroller and Stability Shopper, **not the Beach Cart**. |
 | Beach Cart Backpack & Travel Bag | $39 | |
 | Car Seat Adapters (cart line) | **$39** | `stroleecarts.com/products/strolee-stability-shopper-car-seat-adapters`. Mount **one on each side**. "Fits Only Strolee Stability Shopper." Variants **Chicco / Graco** and **Nuna / Maxi Cosi / Cybex / Britax / Clek**. *Live 2026-08-24: Chicco/Graco in stock, Nuna variant **sold out**.* |
@@ -85,13 +85,15 @@ not included** — the main product images show it attached, which is why people
 - **Don't offer a Double replacement seat cover, canopy or liner.** They don't exist.
 
 ## LOG
-- **2026-08-21** — Chicco/Graco adapter costs more than the Nuna variant ($44 vs $39), confirmed on
-  the product JSON. Both compare-at $55.
-- **2026-08-21** — Chicco Bravo researched on chiccousa.com: four different seats ship under the
-  Bravo name and only one is on our list.
-- **2026-08-24** — an earlier note said no seat attachment existed for the Stability Shopper. Wrong,
-  the cart has its own adapter. Corrected against the live page.
-- **2026-08-24** — a Jul 2026 reply told Bonnie Burnett *"The accessory bags attach by little velcro
-  straps that attach to the frame of the cart."* There is no velcro on the cart and she checked twice.
-  The Deluxe Organizer & Crossbody Bag clips on with the clips **on the bag**. Tickets 283541768,
-  288329283, 288931605. Say "clips," never "velcro."
+*(Verbatim Atira corrections only. Historical fact-discoveries removed 2026-08-27 — their content
+lives in the FACTS/TRAPS sections above.)*
+
+- **2026-08-24, Bonnie Burnett** — a Jul 2026 reply said *"The accessory bags attach by little
+  velcro straps that attach to the frame of the cart."* There is no velcro on the cart. Kept because
+  it's the source-of-error for the "clips, not velcro" rule.
+- **2026-08-27, Atira:** *"that is not where the oversized cup holders go"* then *"look up past
+  tickets or the website"* — front wheels is right for a Personal Shopper, wrong for a Stability
+  Shopper.
+- **2026-08-27, Atira** on Susan Catlett (289464341): *"it is not compatible with the Stability
+  Shopper. There are 2 rectangle tabs the oversized cup holders need that the Stability shopper
+  doesn't have."* Oversized cup holders and 5 Piece Carrying Accessory Set are Personal-Shopper-only.

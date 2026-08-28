@@ -67,8 +67,11 @@ minimum-spend gate or the stacking rule.
 Strolee can't apply it or process reimbursement. Through **Burst** only: `app.getburst.com` /
 `support@getburst.com`. Qualified customers save avg 30%.
 
-**Raise Burst on any affordability ticket, and especially on mobility ones.** Someone saying they
-can't afford the cart is the moment to mention it, not an afterthought.
+**Raise Burst ONLY when the customer raises cost or affordability.** Mobility alone is not the
+trigger. Someone saying *"I can't afford this"*, *"is there a discount"*, *"is this covered by
+insurance"*, or asking about payment plans → mention Burst. Someone asking a safety, product-fit,
+or how-to question → do NOT insert Burst; it reads as an off-topic upsell. When cost AND mobility
+are both present, that's the strongest case for raising it.
 
 **Approved wording for the Burst intro:** *"We also offer partial reimbursement with FSA/HSA funds
 through Burst!"* Not "there's one other route worth knowing about" or any other hedged variant. A cart bought for documented
@@ -128,6 +131,9 @@ answer on record, don't be vaguer or more precise than it).
   generous. Her boss's standing complaint about the previous agent was that he wished she would
   just pick something and stick with it.
 - **2026-08-18, Atira** — the seated cart is "about a year or two." Don't be vaguer or more precise.
+- **2026-08-27, Atira** on Susan Gibbons (289480120): *"why did you put burst in susan's message"* —
+  I inserted Burst into a safety question because the customer used a walker. Rewrote the Burst
+  trigger above: cost/afford must be raised by the customer. Mobility alone doesn't qualify.
 
 - **2026-08-27, Atira:** on a customer whose GOV-X discount wouldn't apply: *"Send them the direct
   link and tell them if they place the order without any other discounts we will refund her the

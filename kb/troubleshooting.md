@@ -70,6 +70,12 @@ Lift the handle slightly *and* squeeze the handle button at once, then push **fo
 down**, not backward. On carts with a green arrow button: green arrow unlocks it to roll, the handle
 button folds it.
 
+**"The handle button is hard to press / stuck / frozen" is NOT the snap-button-in-tube fix.** The
+handle button is the folding release on the handle itself, a different mechanism from the small
+spring buttons on the underside. Never send the pen-in-tube fix for this. Standing answer, per
+Abbey's precedent (285112766, 288578541): apologize warmly and ask for a short video of the fold
+attempt so we can see what it's doing. Then it's assessed as a possible warranty item.
+
 Folding on the Stability Shopper and Pet Stroller (same frame): lift the handle slightly, squeeze
 the handle button at the same time, the whole cart folds forward and clips in place when flat.
 **Send BOTH links, every time:**
@@ -156,6 +162,11 @@ overhead bins.
 - **2026-08-15, Atira** — corrected a draft saying gate check was "free of charge." Strolee can't
   guarantee another company's policy.
 
+- **2026-08-27, Atira:** *"The hadle button she's talking about is not the same as the spring
+  button. Look up past tickets"* — on Enid Murty (289459194). I had bundled the pen-in-tube fix for
+  the underside snap buttons into a reply about the folding handle button. Two different mechanisms.
+  Prior tickets 285112766 ("The button on the handle is frozen") and 288578541 (hard to fold) both
+  got Abbey's apology + video ask, not a self-fix. Documented above.
 - **2026-08-27, Atira:** *"that kick stand is not on that video"* — I had told Sanaa (289015608)
   the kickstand was at the 2:40 mark of the Double V2 how-to. It's not. Rewrote the "Stroller won't
   stand up" section around Abbey's macro 270337 wording plus the reference photo the macro attaches,

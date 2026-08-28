@@ -17,10 +17,12 @@ also what's your order number."
 **GIVEAWAY: yes.** Any free part or free unit gets flagged to Atira above the draft.
 
 ## MUST SAY
-- Warranty covers **manufacturing defects only**.
 - **2 years from purchase.** The $24.99 extension takes it to **5 years total**, not 2+5.
 - It **does not transfer** to a secondhand owner.
 - When declining: say sorry for the news, and give a paid path forward. Never a bare no.
+
+## MUST NOT SAY on the first reply
+- **Do not name the "manufacturing defects only" criterion up front, and do not promise a replacement up front.** Both give the customer the rubric before the evidence lands, and both invite a story shaped to fit. Collect the photo, the order number and the address first, then decide, then tell them what we're doing. *"Once I take a look I'll let you know how we can get this sorted"* is the shape of the first reply, not *"I can absolutely replace this under warranty."* The criterion still applies internally, and it can be named later if we're declining and they ask why.
 
 ## FACTS
 
@@ -112,3 +114,16 @@ is not returned, they dispose of it.
   because the housing wasn't separately replaceable on older models. Wrong — replace the buckle.
   Don't escalate to a whole-unit swap on a customer's framing of how scary it felt; the fix is the
   fix.
+- **2026-08-27, Atira** (on Tricia Lis, 289513461, "bottom button of the clasp has broken"):
+  *"I don' like this list or guaranteeing them a replacement right away. We can never tell them
+  warranty covers manufacturing defcts right away or else they will lie."* I had drafted an opener
+  that promised the replacement and named "warranty covers manufacturing defects" in the same
+  breath as asking for the photo. Both cues teach the customer what answer we're looking for.
+  Rewrote MUST SAY / MUST NOT SAY above: collect the evidence first, then decide, then tell them
+  what we're doing.
+- **2026-08-27, Atira** (on Tricia Lis, 289512722, "bottom button to clasp the harness has popped
+  off"): *"the harness is different. WE need a video to see what is going on."* I had leaned on the
+  Bronwyn magnetic-buckle precedent to promise a buckle part on Tricia's description alone. Wrong.
+  Harnesses vary across models and years; the exact part isn't identifiable from words. **Never
+  commit a specific part on a harness complaint without a video.** Ask for the video first, then
+  identify the part, then ship.

@@ -81,7 +81,6 @@ Card, PayPal, Apple Pay, and **Shop Pay** including installments (2-12 months).
 - **Don't attempt a carrier address change.** Retired.
 
 ## LOG
-- **2026-08-21, Atira** — settled: address changes after shipping are not something we attempt.
 - **2026-08-22, Atira**, on a draft that itemized a customer's whole order to prove I'd checked:
   *"Vickis message was all kinds of fucked up."* Her actual sent reply was three sentences: *"I see
   you were able to order with the code, yay! We will ship your order Monday."* That's the length.

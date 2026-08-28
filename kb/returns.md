@@ -169,3 +169,12 @@ accessories to a V1 customer otherwise**, they can't use them and it generates a
 - **2026-08-22** — corrected on collapsing the two steps: skip the round-trip, never the explanation
   of the shipping deduction.
 - **2026-08-17, Atira** — tone corrections on returns: "to be eligible" not "you must."
+- **2026-08-27, Atira** (on Whitney Weyant, 289153464, pushing back on the $78.50 shipping
+  deduction and citing a pre-purchase promise a universal rider board would work):
+  *"The message to her said 'should'."* I had drafted an empathetic reply that reflected her
+  framing ("was told it would work") back as if it were accurate, which half-validated a wrong
+  premise. **When a customer quotes what CS supposedly promised, don't echo the wording back as
+  hers gave it — quote what we actually would have said. On third-party fit questions our line is
+  "should work," not "will work," because we haven't tested them.** Also holds for any "I was told
+  X" claim — verify against ticket history, and if the actual prior wording was softer, gently
+  correct in the reply rather than adopting the exaggerated version.
