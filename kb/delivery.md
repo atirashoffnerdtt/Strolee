@@ -151,16 +151,15 @@ Actionable the moment tracking shows no movement or a stalled scan.
 - **Boxes arriving opened and retaped is us**, not damage.
 
 ## LOG
-- **2026-08-27, Atira** — flagged that free-shipping-over-$300 wasn't on the site. Fetched the
-  shipping policy page and the Stability Shopper product page and neither mentions any threshold.
-  Corrected the FACTS above. The "free over $300" line had been in the kb but nobody had verified
-  it against the live site.
-- **2026-08-22, Atira** — used macro 262668 over my draft for a missing cup holder: *"I used the
-  macro for becky it sounded more pleasant than the one you gave."* Mine was efficient and correct
-  but it instructed her and then immediately offered the replacement.
-- **2026-08-22, Atira** — settled: confirm the shipping address before any reship, every time.
-- **2026-08-22, Atira** — settled: we are usually not missing things.
-- **2026-08-16, Sadie Cramer ticket** — "I'm so sorry you've had to chase this for a month" and
-  "I should have had this resolved for you long before now" both had to come out.
+- **2026-08-22, Atira** on macro 262668 (missing cup holder): *"I used the macro for becky it
+  sounded more pleasant than the one you gave."* Wording lives in the missing-item section above.
+- **2026-08-16, Sadie Cramer** — *"I'm so sorry you've had to chase this for a month"* and *"I
+  should have had this resolved for you long before now"* both had to come out.
 - *Policy note: through about March 2026 Strolee opened carrier cases itself and reshipped or
   refunded at its own cost. That stopped. Use the current posture, not the old tickets in search.*
+- **2026-08-27, Atira** (on Riley Brittain, 289501542, "I paid $20 shipping for it to be here by
+  the 28th"): *"Riley did not order expeditred shipipng her order says standard."* I drafted an
+  expedited-difference refund based on the customer's own framing without checking the order.
+  Wrong. The order shows standard. **On any "expedited shipping" ticket, verify the shipping line
+  on the actual order before deciding, every time.** A $20 line on a Strolee Baby order at
+  standard rates is not automatically expedited.
